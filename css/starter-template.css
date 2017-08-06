@@ -1,0 +1,35 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+#banner {
+  background-image: url(../images/serengetiTrail34.jpg);
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
+}
+
+#banner .content h1 {
+  border: 5px solid white;
+  color: white;
+  position: relative;
+  top: 150px;
+  width: 300px;
+  margin: 0 auto;
+  padding: 10px 8px;
+  text-align: center;
+}
+
+.SNPheading {
+  margin: 50px auto;
+}
+
+.SNP {
+  max-height: 300px;/* check this */
+  margin: 30px auto;
+}
